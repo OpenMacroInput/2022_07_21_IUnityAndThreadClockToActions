@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.omi.iunityandthreadclocktoactionsEditor",          
+    "references": ["be.omi.iunityandthreadclocktoactions"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   

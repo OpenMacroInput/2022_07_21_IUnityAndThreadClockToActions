@@ -1,0 +1,24 @@
+{
+  "name": "be.omi.iunityandthreadclocktoactions",
+  "displayName": "IUnityAndThreadClockToActions",
+  "version": "0.0.1",
+  "unity": "2018.1",
+  "unityRelease": "",
+  "description": "This tool is design to offert a clock to hook on in OMI that can execute code outside of Unity Thread and precise timing.",
+  "keywords": [ "Script", "Tool" ],
+  "dependencies": {},
+  "relatedPackages": {},
+  "samples": [],
+  "author": {
+    "name": "",
+    "mail": "",
+    "url": ""
+  },
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/OpenMacroInput/2022_07_21_IUnityAndThreadClockToActions.git",
+    "footprint": "",
+    "revision": ""
+  },
+  "category": "Script"
+} 
